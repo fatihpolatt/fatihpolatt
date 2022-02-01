@@ -12,7 +12,7 @@
 <a href="https://twitter.com/fatihpolatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatihpolatr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fatih-polat-78039a166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-polat-78039a166" height="30" width="40" /></a>
 <a href="https://instagram.com/fatihpo1at" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatihpo1at" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucrcnhj8aw12muoyididsrog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCrcnhj8aw12MUoYIdIdsROg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/channel/ucrcnhj8aw12muoyididsrog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/channel/ucrcnhj8aw12muoyididsrog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
